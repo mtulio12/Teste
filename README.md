@@ -7,5 +7,6 @@
 -- git commit README.md -m "Meu primeiro commit"
 - Sincronizar local com remote
 -- git remote origin master caminhoRemoto
-
+- Dar um push, ou seja subir alterações para o gitHub
+-- git push origin master
 
